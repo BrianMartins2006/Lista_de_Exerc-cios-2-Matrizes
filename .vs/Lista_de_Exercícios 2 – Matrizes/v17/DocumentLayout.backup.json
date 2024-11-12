@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{3E73EDFB-1113-47FC-8DE8-46838C90EAAF}|Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes.csproj|solutionrelative:lista_de_exerc\u00EDcios 2 \u2013 matrizes\\exercicio_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E73EDFB-1113-47FC-8DE8-46838C90EAAF}|Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes.csproj|c:\\users\\brian\\source\\repos\\lista_de_exerc\u00EDcios 2 \u2013 matrizes\\lista_de_exerc\u00EDcios 2 \u2013 matrizes\\lista_de_exerc\u00EDcios 2 \u2013 matrizes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{3E73EDFB-1113-47FC-8DE8-46838C90EAAF}|Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes.csproj|solutionrelative:lista_de_exerc\u00EDcios 2 \u2013 matrizes\\lista_de_exerc\u00EDcios 2 \u2013 matrizes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E73EDFB-1113-47FC-8DE8-46838C90EAAF}|Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes.csproj|c:\\users\\brian\\source\\repos\\lista_de_exerc\u00EDcios 2 \u2013 matrizes\\lista_de_exerc\u00EDcios 2 \u2013 matrizes\\exercicio_4_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E73EDFB-1113-47FC-8DE8-46838C90EAAF}|Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes.csproj|solutionrelative:lista_de_exerc\u00EDcios 2 \u2013 matrizes\\exercicio_4_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,23 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes.csproj",
-              "RelativeDocumentMoniker": "Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes.csproj",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes.csproj",
-              "RelativeToolTip": "Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T00:57:10.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Biblioteca.cs",
               "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Biblioteca.cs",
               "RelativeDocumentMoniker": "Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Biblioteca.cs",
@@ -66,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Exercicio_1_2.cs",
               "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Exercicio_1_2.cs",
               "RelativeDocumentMoniker": "Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Exercicio_1_2.cs",
@@ -78,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Exercicio_3.cs",
               "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Exercicio_3.cs",
               "RelativeDocumentMoniker": "Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Exercicio_3.cs",
@@ -90,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Exercicio_4_5.cs",
               "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Exercicio_4_5.cs",
               "RelativeDocumentMoniker": "Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Exercicio_4_5.cs",
@@ -103,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Exercicio_6.cs",
               "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Exercicio_6.cs",
               "RelativeDocumentMoniker": "Lista_de_Exerc\u00EDcios 2 \u2013 Matrizes\\Exercicio_6.cs",
