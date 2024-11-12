@@ -1,0 +1,14 @@
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\bin\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.exe
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\bin\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.deps.json
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\bin\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.runtimeconfig.json
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\bin\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.dll
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\bin\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.pdb
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\obj\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\obj\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\obj\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.AssemblyInfo.cs
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\obj\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\obj\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.dll
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\obj\Debug\net6.0\refint\Lista_de_Exercícios 2 – Matrizes.dll
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\obj\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.pdb
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\obj\Debug\net6.0\Lista_de_Exercícios 2 – Matrizes.genruntimeconfig.cache
+C:\Users\brian\source\repos\Lista_de_Exercícios 2 – Matrizes\Lista_de_Exercícios 2 – Matrizes\obj\Debug\net6.0\ref\Lista_de_Exercícios 2 – Matrizes.dll
